@@ -1,6 +1,6 @@
 Mini DCM viewer (82MB .dcm file included)
 
-Full version can be found here: https://github.com/TonsakZone/react-project-dcm  (no .dcm file included)
+Original version can be found here: https://github.com/TonsakZone/react-project-dcm  (no .dcm file included)
 
 Steps
 
