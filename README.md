@@ -1,3 +1,7 @@
+Mini DCM viewer
+
+Full version can be found here: https://github.com/TonsakZone/react-project-dcm  (no .dcm file included)
+
 Steps
 
   1.Clone this repository
