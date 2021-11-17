@@ -12,4 +12,3 @@ Steps
   
  **** USE "npm run dev" to run all localhost simultaneously
 
-**If "npm install" get stuck, try remove "proxy" from package.json
